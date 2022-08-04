@@ -11,6 +11,7 @@
 - X-Bacon 13,00 R$
 - Hot Dog 7,50 R$
 - X-Burguer com Queijo 12,00 R$
+- X-Tudo 16,50 R$
 
 # PORÇÕES
 - Batata Frita 14,00 R$
