@@ -1,5 +1,5 @@
 # Toninho's Lanches
-* o melhor delivery da cidade, venha comer ou peça em toninhoslanches.com.br
+* o melhor delivery da cidade, venha comer ou peça em www./toninhoslanches.com.br
 * queremos te dar a melhor experiencia alimentar da sua vida
 # localizado no centro da cidade,o Toninho's Lanches é a mais nova lanchonete da cidade
 * confira nosso menú a seguir:
