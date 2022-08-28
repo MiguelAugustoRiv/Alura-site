@@ -1,0 +1,8 @@
+html , body , div , span , applet , object , iframe , h1 , h2 , h3 , h4 , h5 , h6 , p ,
+ blockquote , pre , a , abbr , sigla , endereço , big , cite , code , del , dfn , em , img ,
+  ins , kbd , q , s , samp , small , strike , strong , sub , sup , tt , var ,
+   b , u , i , centro , dl , dt , dd , ol , ul , li , fieldset , formulário , rótulo , legenda ,
+    table , caption , tbody , tfoot , thead , tr , th , td , artigo , aparte , tela , detalhes ,
+     embutir , figura , figcaption , rodapé , cabeçalho , hgroup , menu , nav , output ,
+      ruby ​​, section , summary , tempo , marca , áudio , vídeo
+ { margem : 0 ; preenchimento : 0 ; borda : 0 ; tamanho da fonte : 100 % ; fonte : herdar; vertical-align : linha de base; } /* Redefinição da função de exibição HTML5 para navegadores mais antigos */ artigo , aparte , detalhes , legenda , figura , rodapé , cabeçalho , hgroup , menu , nav , seção { exibição : bloco; } corpo { altura da linha : 1 ; } olá , olá { estilo de lista : nenhum; } citação em bloco , q { citações : nenhuma; } blockquote : antes , blockquote : depois , q : antes , q : depois { conteúdo : '' ; conteúdo : nenhum; } mesa { colapso da fronteira : colapso; espaçamento entre bordas : 0 ; } 
